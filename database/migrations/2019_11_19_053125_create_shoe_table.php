@@ -18,6 +18,7 @@ class CreateShoeTable extends Migration
             $table->timestamps();
             $table->string('Brand');
               $table->float('price');
+                $table->string("Link');
         });
     }
 
