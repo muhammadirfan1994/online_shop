@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+  <!-- Start of REVE Chat Script-->
+ <script type='text/javascript'>
+ window.$_REVECHAT_API || (function(d, w) { var r = $_REVECHAT_API = function(c) {r._.push(c);}; w.__revechat_account='8826271';w.__revechat_version=2;
+   r._= []; var rc = d.createElement('script'); rc.type = 'text/javascript'; rc.async = true; rc.setAttribute('charset', 'utf-8');
+   rc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'static.revechat.com/widget/scripts/new-livechat.js?'+new Date().getTime();
+   var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(rc, s);
+ })(document, window);
+</script>
+<!-- End of REVE Chat Script --> 
+
 <title>BD Online Shop</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
